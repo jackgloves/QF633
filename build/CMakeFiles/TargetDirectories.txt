@@ -1,0 +1,2 @@
+/home/data2/gaoshengyi/workspace/project/build/CMakeFiles/edit_cache.dir
+/home/data2/gaoshengyi/workspace/project/build/CMakeFiles/rebuild_cache.dir
